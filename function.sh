@@ -17,7 +17,7 @@ case $choice in
 
 1) new_user # vuzov function new user()
 ;;
-*) exit
+2) exit
 ;;
 esac
 
