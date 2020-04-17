@@ -43,4 +43,4 @@ esac
 #;;
 #esac
 # case comanda vidkruta, esac komanda zakruta
-# I potim iasho ie komandu skrit chtaie ix daliyshe i vse byde ok 
+# I potim iasho ie komandu skript chtaie ix daliyshe i vse byde ok 
