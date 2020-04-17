@@ -17,8 +17,13 @@ case $choice in
 
 1) new_user # vuzov function new user()
 ;;
+<<<<<<< HEAD
+2) exit
+;;
+=======
 *) exit     # or *)------ce znachutiy dlia vsix
 ;;          # or 2)------for exit
+>>>>>>> cb89bd34a95645e7762bd688b60f5230ad047218
 esac
 
 #case-----ce ie to same sho i if abo else abo elif
