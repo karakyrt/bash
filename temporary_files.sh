@@ -1,6 +1,9 @@
-$ touch priviet
-$ ls
-priviet
-$ touch priviet.$$
-$ ls
-priviet priviet.697
+#!/bin/bash
+set -e
+
+touch hello
+ls
+hello
+touch hello.$$
+ls
+hello hello.697
