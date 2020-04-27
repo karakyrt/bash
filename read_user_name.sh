@@ -17,3 +17,5 @@ echo "Hi, $user_name!"
 # use man(manual command) test-----shob znatu sho oznachaiytiy iaki kliychi v shell(-z, -n, -lt, -gt and etc.) 
 
 # read-----ce komanda dlia polychenie danux vid usera i vona byde chekatu poka  user shosiy ne vvede i ne nazhme klavishy enteri cia komanda zberigaie vvod usera v vkazaniiy variable a iaksho user nichogo ne vvede i prosto nazhme klavishy enter to todi script pokaze "you don't put name" i zavershutiy roboty scripta
+
+# read -p "Please enter your name: " zapush imia-----soxranitiy vvod usera v variable name
