@@ -27,4 +27,4 @@ echo "======================="
 # echo "igor" | wc
 # wc byde praciyvatu na outputom komandu echo "andrey" toiistiy sho pokazhe stdout echo "andrey" i nad cum outputom byde praciiyvatu wc
 
-#pwd stdin run i maiesh stdout /home/andrey/file 
+#pwd stdin run i maiesh stdout /home/igor/file 
