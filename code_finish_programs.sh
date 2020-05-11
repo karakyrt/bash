@@ -22,4 +22,6 @@ fi
 # 2(stderrors)-----standart vuvod oshubok na monitor(most errors on monitor) abo iaki pomulku poakazala komanda ls kolu napruklad vona ne spraciiyvala
 # vesiy vuvod komandu idiot v faiel z descriptorom 1, liybuie oshubki otpravliaiytiysia v faiel z descriptorom 2 i aksho vu ne xochete shob pomulki bylu pokazani na ekrani t vidpravliaiyte ix v /dev/null i ce zypunutiy pokazyvannia pomulok na ekrani: ls /root 2> /dev/null
 
+# Vse sho pokazhe-----0 ce ie seccess(i tiliyku 0 ie seccess) vse sho ide vushche 0 toiistiy 1, 2, 3, 4, 10 i tak daliyshe ie not seccess 
+
 
