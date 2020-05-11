@@ -25,6 +25,6 @@ echo "======================="
 # stderror----vudaie output na ekran iaki ie errors(stderrors=2) abo vudaie errors iaki vunuklu v procesi robotu ciieii(ls) abo inshoii
 # exemple:                                                                                                       komandu
 # echo "igor" | wc
-# wc byde praciyvatu na outputom komandu echo "andrey" toiistiy sho pokazhe stdout echo "andrey" i nad cum outputom byde praciiyvatu wc
+# wc byde praciyvatu na outputom komandu echo "igor" toiistiy sho pokazhe stdout echo "andrey" i nad cum outputom byde praciiyvatu wc
 
 #pwd stdin run i maiesh stdout /home/igor/file 
