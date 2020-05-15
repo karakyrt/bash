@@ -55,3 +55,9 @@ esac
 #esac
 # case comanda vidkruta, esac komanda zakruta
 # I potim iasho ie komandu skript chtaie ix daliyshe i vse byde ok 
+
+#Функция — ещё одно название метода. Это всего лишь фрагмент кода, который что-то выполняет и имеет имя. Функции можно легко объявлять:
+
+#function giveMeOne() {
+ #   return 1
+#}
