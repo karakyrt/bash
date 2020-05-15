@@ -26,3 +26,5 @@ echo "peredanuiy parametr - $1"
 
 #iksho v homandi ie: 
 # python3 --version ce na raxynok iaksho ie slovo(--version) to robutiysia dlia togo shob bash rozymiv sho perednum ne ie pereraxynok kliychiv(-i, -t, -it or -V-----ce ie versia python) a pered num tiliykuyu odun kliych v vugliadi slova(--version) no robliatiy vonu odne i tozhe pokazyiytiy versiiy pyiytona
+
+#Часть данных, которую мы добавляем в функции, называется аргументом.
