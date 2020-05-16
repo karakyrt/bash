@@ -42,3 +42,5 @@ echo "$num1 + $num2 = $summa"
 # summa=$((num1+num2))
 # bo iaksho ne postavush dvoiyni dyzhku skript praciyvatu ne byde
 
+# Часть данных, которую мы добавляем в функции, называется аргументом.
+

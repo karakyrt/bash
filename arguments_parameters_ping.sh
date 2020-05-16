@@ -28,3 +28,5 @@ echo "really done"
 # mygtw="8.8.8.8"-----a kolu mu robum define(opridilienia) abo opridiliaiem chtoto abo daiem imia abo opusyiem ciiy variable to mu ne vukorustovyiem dollar sing($) i pushem tak
 
 # mygtw="8.8.8.8"-----mygtw dorivniiyie(=) ce ie output abo rezyliytat komandu "8.8.8.8" i ping viziyme z ciieii variable($mygtw) znachennia a znachennia mygtw=toistiy ie"8.8.8.8" proranaie choturu raza(-c 4) i vubie
+
+# Часть данных, которую мы добавляем в функции, называется аргументом.

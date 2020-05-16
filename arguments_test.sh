@@ -20,11 +20,11 @@ echo "======================="
 # $?------iakuiy prenadlezhutiy=0(iaksho programa spraciiyvala to vona pokazala na vuxodi 0 seccess)
 # $*------bere argymentu i pakazyie ii v odniiy liniii
 
-# stdout------vudaie output na ekran abo v faiylu i papku(stdout=2) 
-# stdin-------bere i vvodutiy shosiy input something(stdout=0)
-# stderror----vudaie output na ekran iaki ie errors(stderrors=1)
-# exemple:
-# echo "andrey" | wc
-# wc byde praciyvatu na outputom komandu echo "andrey" toiistiy sho pokazhe stdout echo "andrey" i nad cum outputom byde praciiyvatu wc
+# stdout------vudaie output na ekran abo v faiylu i papku(stdout=1) abo rezylitat komandu ls i ce byde: file1, file2, file3, file4, file5 abo luiybuiy output iaka vudasiytiy ta chu inaksha komanda
+# stdin-------bere i vvodutiy shosiy input something(stdout=0) to sho tu vviv v terminal napruklad kamandy: ls
+# stderror----vudaie output na ekran iaki ie errors(stderrors=2) abo vudaie errors iaki vunuklu v procesi robotu ciieii(ls) abo inshoii
+# exemple:                                                                                                       komandu
+# echo "igor" | wc
+# wc byde praciyvatu na outputom komandu echo "igor" toiistiy sho pokazhe stdout echo "igor" i nad cum outputom byde praciiyvatu wc(cia komanda pokazhe world count tooistiy skliyku bykv v slovi "igor" i tak daliyshe)
 
-#pwd stdin run i maiesh stdout /home/andrey/file 
+#pwd stdin run i maiesh stdout /home/igor/file 

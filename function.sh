@@ -27,6 +27,12 @@ case $choice in
 esac
 
 #case-----ce ie to same sho i if abo else abo elif
+
+#Функция — ещё одно название метода. Это всего лишь фрагмент кода, который что-то выполняет и имеет имя. Функции можно легко объявлять:
+
+#function giveMeOne() {
+#    return 1
+#}
 #case-----i vono pidxodutiy dlia togo shob provirutu dekiliyka ysloviiy za raz
 #i vu nexochete vukorustovyvatu dekiliyka vlozhenux operatoriv if na kozhniiy
 #strochci scripta
@@ -49,3 +55,12 @@ esac
 #esac
 # case comanda vidkruta, esac komanda zakruta
 # I potim iasho ie komandu skript chtaie ix daliyshe i vse byde ok 
+
+#Функция — ещё одно название метода. Это всего лишь фрагмент кода, который что-то выполняет и имеет имя. Функции можно легко объявлять:
+
+#function giveMeOne() {
+ #   return 1
+#}
+
+#Функции очень эгоистичны. Если вы объявите переменную внутри функции, то вы не сможете ею воспользоваться где-нибудь за пределами функции.
+# https://tproger.ru/translations/learn-to-write-some-simple-code/
