@@ -5,7 +5,7 @@ if [ "$1" == "vasia"  ]; then
 elif [ "$1" == "trump"  ]; then
    echo "hello $1"
 
-else echo "zdarova $1"
+else echo "zdorova $1"
 fi
 
 x=$2
@@ -56,5 +56,29 @@ esac
 # ./argyments_parameters.adtv.sh trump 5(dryguiy parameters abo argyments x=$2)
  
 # a iaksho prosto zrobush run script ./arguments_parameters_adtv.sh bez iakux nebydiy argymentiv abo parametriv(trump, vasia, igor, 1, [2-9], *) to script proranaietiysia i tam de ie echo "zdorova $1" to tam poiavutiysia liyba nadpusiy iaky tu tydu vviv)
+
+# iaksho robush run ciogo skripta oboviazkovo nezabydiy nazvy skripta(./arguments_parameters_adtv.sh) i iogo parametru(abo igor abo vasia abo trump i takozh nezabytiy cufrovi parametru: 1 obo 2-9(liybe chuslo))bo vvedu ./arguments_parameters_adtv.sh trump(odun parameter) 5(dryguiy parameter)
+
+
+#Ce ie examples iak praciyie ceiy script i tyt mozhesh kombinyvatu parametru:
+#[root@localhost bash]# ./case_if_elif_else_adtv.sh trump(odun parameter) 5(gryguiy parameter)
+#hello trump
+#starting case selection....
+#two-nine
+
+#[root@localhost bash]# ./case_if_elif_else_adtv.sh     trump (a drygogo parametra tu ne vkazav)
+#hello trump
+#starting case selection....
+#parameter unknown, sorry
+
+#[root@localhost bash]# ./case_if_elif_else_adtv.sh 1 5
+#zdorova 1
+#starting case selection....
+#two-nine
+#[root@localhost bash]# vim case_if_elif_else_adtv.sh 
+#[root@localhost bash]# ./case_if_elif_else_adtv.sh     trump igor
+#hello trump
+#starting case selection....
+#hi igor
 
 
