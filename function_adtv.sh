@@ -14,3 +14,5 @@ myFunction 50 igor
 # function prunimaie parametru abo argymentu scripta
 # a kolu tu zapusyiesh "myFunction" tu vuzuvaiesh ciiy funkciiy
 # a kulu tu zapusyiesh "myFunction 50 igor" to tu peredaiesh parametru abo argymentu ciiy funkcii a tak funkciia prunimaie ci argymentu abo parametru za dopomogoiy $1 abo $1   
+
+#Функции очень эгоистичны. Если вы объявите переменную внутри функции, то вы не сможете ею воспользоваться где-нибудь за пределами функции.

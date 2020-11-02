@@ -26,4 +26,3 @@ echo "summa = $summa"
 # mu pereselaiem dvi cufru 50 i 45 a cia funkciia byde nam vusulatu symmy
 # myFunction 50 45 a symma byde 95
    
-# Функции очень эгоистичны. Если вы объявите переменную внутри функции, то вы не сможете ею воспользоваться где-нибудь за пределами функции.
